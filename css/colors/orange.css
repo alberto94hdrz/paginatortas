@@ -48,7 +48,7 @@
 }
 
 .offer-item .offer-price{
-	border: 1px solid #e75b1e;
+	/* border: 1px solid #e75b1e; */
 }
 .sf-team:hover .text-col{
 	background-color: #e75b1e;

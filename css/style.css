@@ -877,7 +877,9 @@ html, body{ height: 100%; }
 .offer-item div h3 {
     font-size: 20px;
     margin: 9px 0 0px;
-    font-family: 'nautilus_pompiliusregular';
+    /* font-family: 'nautilus_pompiliusregular'; */
+    font-family: 'Roboto', sans-serif;
+
     font-weight: 400;
     letter-spacing: .5px;
 }
