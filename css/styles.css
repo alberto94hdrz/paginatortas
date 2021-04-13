@@ -1,0 +1,138 @@
+body{ font-family:"Roboto";font-size:16px; }
+
+h1{
+    font-family:"Barlow";font-weight:800;
+}
+h2{
+    font-family:"Barlow";font-weight:700; 
+}
+h3{ 
+    font-family:"Barlow";font-weight:700; 
+}
+
+h4{ 
+    font-family:"Barlow";font-weight:700;
+}
+
+
+
+
+a, .post-meta span i, .entry-header .entry-title a:hover, .sidebar ul li a:hover{
+    color: #e7272d;
+}
+
+.entry-header .entry-title a,
+.post .entry-header .entry-title a{
+    color: #222;
+}
+
+body{
+    background-color: #fff;
+}
+
+
+.single-intro-text .count-number, .sticky.post .meta-featured-post,
+.sidebar .widget .widget-title:before, .pagination li.active a, .pagination li:hover a,
+.pagination li.active a:hover, .pagination li:hover a:hover,
+.sidebar .widget.widget_search .input-group-btn,
+.BackTo, .ticket-btn.btn:hover,
+.woocommerce div.product form.cart .button,
+.btn-primary,
+.BackTo,
+.header-book-btn .btn-primary,
+.header .navbar-container .navbar-light .main-menu > li > a:before,
+.header-transparent:before,
+ .header-transparent .header-cart .cart-link a sup,
+.header-transparent .navSidebar-button, 
+.owl-carousel .owl-dots .owl-dot.active,
+.testimonial-carousel.owl-carousel.style4 .author-name:after,
+.xs-review-box .xs-review .xs-btn,
+.sidebar .widget-title:before,
+.not-found .input-group-btn,
+.ts-product-slider.owl-carousel .owl-nav .owl-prev:hover, .ts-product-slider.owl-carousel .owl-nav .owl-next:hover,
+.woocommerce ul.products li.product .button,.woocommerce ul.products li.product .added_to_cart,
+.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current,
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.sponsor-web-link a:hover i, .woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce span.onsale,
+.navbar-light .navbar-toggler,
+.ts-contact-form .form-group .btn-submit:hover,
+.woocommerce table.cart td.actions button.button,
+.woocommerce a.button, .woocommerce button.button.alt,
+.faq .elementor-accordion .elementor-accordion-item .elementor-tab-title.elementor-active .elementor-accordion-icon,
+.woocommerce ul.products li.product .added_to_cart:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle{
+    background: #db363b;
+}
+
+
+.btn-primary,
+.sidebar .widget.widget_search .form-control:focus,
+.not-found .form-control:focus,
+.ts-contact-form .form-group .btn-submit:hover,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active{
+    border-color: #e7272d;
+}
+
+
+
+.copyright .footer-social li a i:hover,
+.copyright .copyright-text a,
+.header .navbar-container .navbar-light .main-menu li a:hover,
+.header .navbar-container .navbar-light .main-menu li.active > a,
+.post .entry-header .entry-title a:hover,
+a:hover,
+.ts-footer .footer-menu li a:hover,
+.tag-lists a:hover, .tagcloud a:hover,
+.post-navigation span:hover, .post-navigation h3:hover,
+#rev_slider_4_1  .gloreya .tp-bullet.selected:after,
+#rev_slider_4_1 .gloreya.tparrows::before,
+.woocommerce ul.products li.product .woocommerce-loop-product__title:hover{
+    color: #e7272d;
+}
+
+.footer-widget p strong a,
+.nav-classic-transparent.header .navbar-container .navbar-light .main-menu li a:hover{
+    color: #ffe119;
+
+}
+
+.header-book-btn .btn-primary:hover,
+.btn-primary:hover,
+.xs-review-box .xs-review .xs-btn:hover,
+.nav-classic-transparent .header-cart .cart-link a sup{
+    background: #ffe119;
+}
+.header-book-btn .btn-primary:hover,
+.btn-primary:hover{
+    border-color: #ffe119;
+}
+
+
+
+
+ .header-book-btn .btn-primary{
+    background: #e7272d;
+    border-color: #e7272d;
+}
+ 
+ .header-book-btn .btn-primary{
+    color: #fff;
+}
+ 
+    .header .navbar-container .navbar-light .main-menu > li > a,
+    .header-transparent .header-nav-right-info li{
+     font-family:"Barlow";font-size:14px;font-weight:700;
+ }
+
+.ts-footer{
+    background-color: #1b1b1b;
+    padding-top:80px;
+    background-image:url(//demo.themewinter.com/wp/gloreya/wp-content/uploads/2019/10/footer_bg.png);;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.copyright .copyright-text{
+ color: #aaa;
+}
